@@ -160,7 +160,7 @@ async def say(ctx, *whatYouWantBotToSay):
     await ctx.send(response)
 
 #CPU_Bot Key
-#client.run('Njk3ODI5NDU4MjkxMzI3MDc0.Xo8-Uw.u8S423vJq3Y2jPNf0nblZKiLY-8')
+#client.run('')
 
 #Test Bot Key
-client.run('NzU4MDA3ODkyMjMzNDIxMDAy.X2or3A.PY83rsqYZ0SwIDHkt2HdKynS4qU')
+client.run('')
