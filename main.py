@@ -163,4 +163,4 @@ async def say(ctx, *whatYouWantBotToSay):
 #client.run('')
 
 #Test Bot Key
-client.run('')
+#client.run('')
